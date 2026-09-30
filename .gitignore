@@ -1,0 +1,14 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Local logs
+*.log
